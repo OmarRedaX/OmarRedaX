@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Omar Abouelfadl</h1>
-<h3 align="center">Full Stack Web Developer (MERN Stack)</h3>
+<h3 align="center">Full Stack Web Engineer</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 💻 Full Stack Web Developer specialized in **MERN Stack**
+- 💻 Full Stack Web engineer
 - 🗄️ Experienced with **SQL & NoSQL databases**
 - 🔭 Currently building **scalable web applications & RESTful APIs**
 - 🌱 Improving my skills in **TypeScript, NestJS, System Design**
